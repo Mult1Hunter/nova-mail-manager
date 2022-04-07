@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "binarybuilds/laravel-mail-manager" : "^1.0"
+        "binarybuilds/laravel-mail-manager" : "1.*"
     },
     "autoload": {
         "psr-4": {
